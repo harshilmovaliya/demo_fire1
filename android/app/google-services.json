@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087274711895",
+    "project_id": "fir-fire-32a01",
+    "storage_bucket": "fir-fire-32a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087274711895:android:519395cdbc363a5faf1c12",
+        "android_client_info": {
+          "package_name": "com.example.demo_fire1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eRYXlk8V2XZLnz91f2-cqGaCIF4M-4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
